@@ -60,7 +60,10 @@ Upload 버튼을 눌러 'single_reference.jsonl' 을 업로드 합니다.
 
 ## Module 2: Evaluation API 를 이용한 평가 (Multi turn)
 
-실습 노트북: text_multiturn_api_eval.ipynb
+실습 노트북
+```
+text_multiturn_api_eval.ipynb
+```
 
 ---
 
@@ -68,7 +71,10 @@ Upload 버튼을 눌러 'single_reference.jsonl' 을 업로드 합니다.
 
 ## Module 3: Agent 평가 (Whitebox, Blackbox by Agent Runtime)
 
-실습 노트북: agent_eval.ipynb
+실습 노트북
+```
+agent_eval.ipynb
+```
 
 ---
 
@@ -76,7 +82,10 @@ Upload 버튼을 눌러 'single_reference.jsonl' 을 업로드 합니다.
 
 ## Module 4: Agent trajectory 평가
 
-실습 노트북: trajectory_eval.ipynb
+실습 노트북
+```
+trajectory_eval.ipynb
+```
 
 ---
 
@@ -84,7 +93,10 @@ Upload 버튼을 눌러 'single_reference.jsonl' 을 업로드 합니다.
 
 ## Module 5: Translation 평가
 
-실습 노트북: translation_eval.ipynb
+실습 노트북
+```
+translation_eval.ipynb
+```
 
 ---
 
@@ -92,7 +104,10 @@ Upload 버튼을 눌러 'single_reference.jsonl' 을 업로드 합니다.
 
 ## Module 6: Image / Video generation 평가
 
-실습 노트북: image_video_api_eval.ipynb
+실습 노트북
+```
+image_video_api_eval.ipynb
+```
 
 ---
 
@@ -100,6 +115,9 @@ Upload 버튼을 눌러 'single_reference.jsonl' 을 업로드 합니다.
 
 ## Module 7: Prompt Optimizer
 
-실습 노트북: custom_metric_optimizer.ipynb
+실습 노트북
+```
+custom_metric_optimizer.ipynb
+```
 
 ---
