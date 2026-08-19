@@ -11,6 +11,8 @@
 실행된 Jupyterlab 환경에서 Terminal에 진입 후 아래 명령어를 실행해 실습자료를 다운로드 받습니다.
 
 ```
+pip install google-adk
+pip install --force-reinstall google-cloud-aiplatform==1.162.0 google-genai==2.14.0
 git clone https://github.com/jk1333/genai_evaluation
 ```
 
