@@ -13,6 +13,7 @@
 ```
 pip install google-adk
 pip install --force-reinstall google-cloud-aiplatform==1.162.0 google-genai==2.14.0
+pip install --upgrade scikit-learn
 git clone https://github.com/jk1333/genai_evaluation
 ```
 
